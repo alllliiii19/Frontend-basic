@@ -1,0 +1,36 @@
+h1 {
+    color:darkblue;
+    text-align: center;
+    background-color:beige;
+}
+
+h2 {
+    color:brown;
+    text-align: center;
+    background-color:bisque;
+}
+p {
+    color:blue;
+    text-align: center;
+    background-color:blanchedalmond;
+}
+img {
+    display: block;
+    width: 25%;
+    margin: auto;
+    background-color:darkslateblue;
+}
+table {
+    color:blueviolet;
+    background-color:olive;
+    text-align: center;
+    display: block;
+    width: 10%;
+    margin: auto;
+}
+a {
+    display: block;
+    width: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
